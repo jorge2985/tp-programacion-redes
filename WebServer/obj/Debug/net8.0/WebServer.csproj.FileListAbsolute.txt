@@ -1,0 +1,17 @@
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\wwwroot\404.html
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\wwwroot\index.html
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\config.json
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\WebServer.exe
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\WebServer.deps.json
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\WebServer.runtimeconfig.json
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\WebServer.dll
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\bin\Debug\net8.0\WebServer.pdb
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.dll
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\refint\WebServer.dll
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.pdb
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\ref\WebServer.dll

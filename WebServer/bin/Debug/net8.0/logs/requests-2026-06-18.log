@@ -1,0 +1,26 @@
+========================================
+Fecha y hora: 2026-06-18 22:56:45
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /
+Version HTTP: HTTP/1.1
+Parametros de consulta:
+  nombre = Juan
+  edad = 20
+
+========================================
+Fecha y hora: 2026-06-18 22:56:45
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /no-existe.html
+Version HTTP: HTTP/1.1
+
+========================================
+Fecha y hora: 2026-06-18 22:56:46
+IP de origen: 127.0.0.1
+Metodo: POST
+Ruta: /formulario
+Version HTTP: HTTP/1.1
+Datos POST:
+nombre=Ana&x=
+

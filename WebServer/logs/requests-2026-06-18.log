@@ -1,0 +1,54 @@
+========================================
+Fecha y hora: 2026-06-18 22:57:43
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /
+Version HTTP: HTTP/1.1
+Parametros de consulta:
+  nombre = Juan
+  edad = 20
+
+========================================
+Fecha y hora: 2026-06-18 22:57:43
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /no-existe.html
+Version HTTP: HTTP/1.1
+
+========================================
+Fecha y hora: 2026-06-18 22:57:43
+IP de origen: 127.0.0.1
+Metodo: POST
+Ruta: /formulario
+Version HTTP: HTTP/1.1
+Datos POST:
+nombre=Ana&x=1
+
+========================================
+Fecha y hora: 2026-06-18 23:11:08
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /
+Version HTTP: HTTP/1.1
+
+========================================
+Fecha y hora: 2026-06-18 23:11:08
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /favicon.ico
+Version HTTP: HTTP/1.1
+
+========================================
+Fecha y hora: 2026-06-18 23:13:54
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /
+Version HTTP: HTTP/1.1
+
+========================================
+Fecha y hora: 2026-06-18 23:13:55
+IP de origen: 127.0.0.1
+Metodo: GET
+Ruta: /favicon.ico
+Version HTTP: HTTP/1.1
+
