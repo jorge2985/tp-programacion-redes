@@ -22,8 +22,8 @@ El archivo `config.json` permite cambiar el puerto y la carpeta desde donde se s
 
 ```json
 {
-  "Port": 8080,
-  "RootDirectory": "wwwroot"
+  "Puerto": 8080,
+  "CarpetaRaiz": "wwwroot"
 }
 ```
 

@@ -1,4 +1,4 @@
 {
-  "Port": 8080,
-  "RootDirectory": "wwwroot"
+  "Puerto": 8080,
+  "CarpetaRaiz": "wwwroot"
 }

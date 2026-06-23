@@ -15,3 +15,4 @@ C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\re
 C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.pdb
 C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.genruntimeconfig.cache
 C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\ref\WebServer.dll
+C:\Users\Jorge\Desktop\Programacion_Redes\TP_final\WebServer\obj\Debug\net8.0\WebServer.sourcelink.json
